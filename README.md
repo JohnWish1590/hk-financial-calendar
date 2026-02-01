@@ -11,7 +11,7 @@
 ## 📅 如何订阅 (一键同步)
 
 ### 方式 A：Google Calendar (推荐)
-1. 复制此链接： `https://raw.githubusercontent.com/你的用户名/hk-financial-calendar/main/hk_stock_2026.ics` (请替换为你刚才获取的Raw链接)
+1. 复制此链接： `https://raw.githubusercontent.com/JohnWish1590/hk-financial-calendar/main/hk_stock_2026.ics` (请替换为你刚才获取的Raw链接)
 2. 打开 [Google日历网页版](https://calendar.google.com/)。
 3. 在左侧菜单找到 "其他日历" (Other calendars) -> 点击 "+" -> "通过现有网址添加" (From URL)。
 4. 粘贴链接，点击 "添加日历"。
